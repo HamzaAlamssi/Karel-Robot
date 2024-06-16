@@ -1,0 +1,37 @@
+Dimension: (22, 12)
+Beeper: (1, 7) 1
+Beeper: (2, 7) 1
+Beeper: (3, 6) 1
+Beeper: (4, 6) 1
+Beeper: (5, 6) 1
+Beeper: (6, 6) 1
+Beeper: (7, 6) 1
+Beeper: (8, 6) 1
+Beeper: (9, 6) 1
+Beeper: (10, 6) 1
+Beeper: (11, 7) 1
+Beeper: (11, 8) 1
+Beeper: (11, 9) 1
+Beeper: (11, 10) 1
+Beeper: (11, 11) 1
+Beeper: (11, 12) 1
+Beeper: (12, 1) 1
+Beeper: (12, 2) 1
+Beeper: (12, 3) 1
+Beeper: (12, 4) 1
+Beeper: (12, 5) 1
+Beeper: (12, 6) 1
+Beeper: (13, 7) 1
+Beeper: (14, 7) 1
+Beeper: (15, 7) 1
+Beeper: (16, 7) 1
+Beeper: (17, 7) 1
+Beeper: (18, 7) 1
+Beeper: (19, 7) 1
+Beeper: (20, 7) 1
+Beeper: (21, 6) 1
+Beeper: (22, 6) 1
+Karel: (1, 1) east
+
+BeeperBag: 968
+Speed: 0.85
